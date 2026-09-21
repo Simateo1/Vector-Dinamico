@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1790023714 source:c:\users\mateo\downloads\unla\vector dinamico\vector_dinamico\main.c
+	<stdio.h>
+	<stdlib.h>
+	"vector.h"
+
+1790003206 source:c:\users\mateo\downloads\unla\vector dinamico\vector_dinamico\src\vector.cpp
+	"vector.h"
+
+1790003401 c:\users\mateo\downloads\unla\vector dinamico\vector_dinamico\include\vector.h
+
+1790023631 source:c:\users\mateo\downloads\unla\vector dinamico\vector_dinamico\vector.c
+	<stdio.h>
+	<stdlib.h>
+	"vector.h"
+
